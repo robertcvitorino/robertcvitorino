@@ -4,7 +4,7 @@
 nome: Robert Czelen Vitorino
 localizado: Navegantes, Santa Catarina
 educacao: ["Ciência da computação"]
-trabalho: Programador Junior
+trabalho: Programador Pleno
 empresa: Benner Sistemas
 ```
 - 🌱 Estundado e aprimorando para ser Programador em Fluter e Dart.
